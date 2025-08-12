@@ -1,1 +1,2 @@
-# APOOLANHouseManagement
+Olá! os autores desse projeto são Andriw Davi Gonçalves de Barros e João Augusto Cruz de Medeiros e nosso projeto chama-se: sistema de gerenciamento de Lan-house. O nosso projeto tem como objetivo criar um modelo de gestão de um estabelecimento de uso de dispositivos eletrônicos, mostrando o processo e os envolvidos dentro de uma empresa de pequeno porte desse tipo. No futuro, nós, autores desse projeto, planejamos aperfeiçoar o sistema para interligar as Lan-houses de todo o Brasil, assim conectando o mercado e, consequentemente, trazendo mais praticidade para os usuários.
+O link para o estudo de casos base: https://docs.google.com/document/d/19A8cmqj8QmPJRG7Eif8J4ehR7H-IvFgN/edit?usp=drive_link&ouid=107597402969297944903&rtpof=true&sd=true
